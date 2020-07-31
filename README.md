@@ -5,3 +5,4 @@ you start from the directory C:\Users\"User" and your project is located on C:Pr
 After you will probabbly 1st need to compile it before being able to use it so you type: "javac Main.java"(since the main class name is "Main" in the program).
 And finally you type: "java Main" to run it. After these steps you should be running the console app in your cmd, and further instructions on how to use it should
 be written out on the console.
+ PS, I've run it only on Windows 10 till now, I don't know if it would work on Linux/Mac OS, but with java/jdk installed I believe it should.
